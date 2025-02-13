@@ -1,5 +1,5 @@
 # Beauty Contest
-Console program that handles an information system for a beauty contest, written in C++. It consists of a main menu, which operates with typed integer values in the terminal to choose a function from it (don't worry, invalid inputs are handled properly 😉). Down below are all of the functions summarized in a few words. The whole documentation can be found [here]() but unfortunatelly, it is written in Bulgarian, as the whole project is a task from my university in Bulgaria.
+Console program that handles an information system for a beauty contest, written in C++. It consists of a main menu, which operates with typed integer values in the terminal to choose a function from it (don't worry, invalid inputs are handled properly 😉). Down below are all of the functions summarized in a few words. The whole documentation can be found [here](DocumentationBG.docx) but unfortunatelly, it is written in Bulgarian, as the whole project is a task from my university in Bulgaria.
 
 ## ⚙ Options
 
