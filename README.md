@@ -1,6 +1,7 @@
 # Beauty Contest
 
-![2531_2-scaled](https://github.com/user-attachments/assets/a96f726f-bde4-4582-9008-e5b4ba3b3fd0)
+![miss-pageant-logo-with-beautiful-lady-evening-gown-and-crown-design-stock-image-vector](https://github.com/user-attachments/assets/d09e05fb-9bd4-4d40-b833-1ac8d8a5901a)
+
 
 This is a console program that handles an information system for a beauty contest, written in C++. It consists of a main menu, which operates with integer values, that are typed in the relevant place, in order to choose a function from it (don't worry, invalid inputs are handled properly 😉). Down below are all of the functions summarized in a few words. The whole documentation can be found [here](DocumentationBG.docx) but unfortunatelly, it is written in Bulgarian, as the whole project is a task from my university in Bulgaria.
 
